@@ -3,36 +3,32 @@ title: Hello myFriends
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
-
-### Create a new post
-
 ``` bash
-$ hexo new "My New Post"
+### 励志名言
+## 1、我之所以能，是因为我相信能
+## 2、拼一个春夏秋冬，换一生无怨无悔。
+## 3、让刻苦成为习惯，用汗水浇灌未来。
+## 4、 生命不是要超越别人，而是要超越自己。
+## 5、没有失败，只有暂时停止成功！
+## 6、忘记失败的疼苦，铭记失败的原因。
+## 7、驾驭命运的舵是奋斗。不抱有一丝幻想，不放弃一点机会，不停止一日努力。
+## 8、如果一个人不知道他要驶向哪个码头，那么任何风都不会是顺风。
+## 9、行动是理想最高贵的表达。
+## 10、你既然认准一条道路，何必去打听要走多久。
+## 11、勇气是控制恐惧心理，而不是心里毫无恐惧。
+## 12、不举步，不过栅栏；不迈腿，登不上高山。
+## 13、不知道明天干什么的人是不幸的！
+## 14、智者的梦再美，也不如愚人实干的脚印。
+## 15、不要让安逸盗取我们的生命力。
+## 16、别人只能给你指路，而不能帮你走路，自己的人生路，还需要自己走。
+## 17、勤奋可以弥补聪明的不足，但聪明无法弥补懒惰的缺陷
+## 18、后悔是一种耗费精神的情绪，后悔是比损失更大的损失，比错误更大的错误，所以，不要后悔！
+## 19、复杂的事情要简单做，简单的事情要认真做，认真的事情要重复做，重复的事情要创造性地做。
+## 20、只有那些能耐心把简单事做得完美的人，才能获得做好困难事的本领
+## 21、不是你比别人差，只是付出不够多。
+## 22、望远镜可以望见远的目标，却不能代替你走半步。
+## 23、卓越的人一大优点是：在不利与艰难的遭遇里百折不挠。——贝多芬
+## 24、不渴望能够一跃千里，只希望每天能够前进一步。
+## 25、萤火虫的光点虽然微弱，但亮着便是向黑暗挑战。
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
